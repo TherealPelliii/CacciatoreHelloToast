@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloToast</string>
+    <string name="button_label_toast">Hello Toast!</string>
+    <string name="show_count">0</string>
+    <string name="button_label_increase">Increase</string>
+    <string name="button_label_decrease">Decrease</string>
+</resources>
